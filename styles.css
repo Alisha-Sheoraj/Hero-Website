@@ -81,7 +81,7 @@ section {
 /* Headings */
 
 p{
-    font-size: 10px;
+    font-size: 20px;
     text-transform: lowercase;
 }
 
@@ -91,7 +91,7 @@ p{
 
 h1{
     font-family: 'Quintessential';
-    font-size: 2.3rem;
+    font-size: 2.8rem;
     text-transform: uppercase;
     letter-spacing: 2px;
     position: relative;
@@ -101,7 +101,7 @@ h1{
 
 h2{
     font-family: 'Quintessential';
-    font-size: 1.5rem;
+    font-size: 1.9rem;
     text-transform: uppercase;
     letter-spacing: 2px;
     position: relative;
